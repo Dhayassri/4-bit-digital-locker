@@ -75,15 +75,15 @@ This project aims to develop a secure digital locker that:
 
 ## Simulation
 
-
-(Add your simulation screenshots here)
-
-```markdown
-![Simulation](images/simulation.png)
-
-```
 ### Correct Password
 ![Correct](images/green.png)
+
+### Wrong Password
+![wrong](images/red.png)
+
+### Locked
+
+![Lock](images/yellow.png)
 
 ## Prototype
 
