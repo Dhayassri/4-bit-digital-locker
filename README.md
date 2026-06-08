@@ -90,7 +90,7 @@ This project aims to develop a secure digital locker that:
 A hardware prototype was developed using Arduino Uno, push buttons, LEDs, a buzzer to demonstrate the real-world implementation of the digital locker system.
 
 ### Prototype Images
-![prototype](images/hardware.jpeg)
+![prototype](images/hardware.jpg)
 
 ## Applications
 
