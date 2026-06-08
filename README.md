@@ -72,7 +72,6 @@ This project aims to develop a secure digital locker that:
    * Yellow LED indicates the lockout status.
    * Further access attempts are blocked until reset.
 
----
 
 ## Simulation
 
@@ -105,7 +104,6 @@ A hardware prototype was developed using Arduino Uno, push buttons, LEDs, a buzz
 * Smart security solutions
 * Educational embedded system projects
 
----
 
 ## Technologies Used
 
@@ -115,8 +113,6 @@ A hardware prototype was developed using Arduino Uno, push buttons, LEDs, a buzz
 * Servo Motor Control
 * Digital Electronics
 * Autodesk Tinkercad
-
----
 
 ## Future Enhancements
 
