@@ -6,7 +6,6 @@ The 4-Bit Binary Multifunctional Digital Locker is a secure and cost-effective e
 
 The system uses a 4-bit binary password, servo motor-based locking mechanism, LED indicators, and a buzzer to create an interactive and reliable digital security solution.
 
----
 
 ## Problem Statement
 
@@ -19,7 +18,6 @@ This project aims to develop a secure digital locker that:
 * Provides clear visual and audible user feedback.
 * Maintains security even after power interruptions.
 
----
 
 ## Objectives
 
@@ -29,7 +27,6 @@ This project aims to develop a secure digital locker that:
 * Enhance security using EEPROM-based attempt tracking.
 * Develop a low-cost and reliable security solution using embedded systems.
 
----
 
 ## Features
 
@@ -44,19 +41,15 @@ This project aims to develop a secure digital locker that:
 * Support for multiple stored passwords
 * Low-cost and scalable design
 
----
 
 ## System Components
 
 * Arduino Uno
 * Push Buttons
-* Servo Motor
 * LEDs (Green, Red, Yellow)
 * Piezo Buzzer
-* EEPROM Memory
 * Breadboard and Resistors
 
----
 
 ## Working Principle
 
@@ -82,25 +75,15 @@ This project aims to develop a secure digital locker that:
 
 ## Simulation
 
-The system was designed and tested using Autodesk Tinkercad and Arduino IDE.
-
-The simulation validates:
-
-* Password authentication
-* Locking and unlocking operations
-* LED and buzzer feedback
-* EEPROM-based lockout functionality
-* System response to invalid access attempts
-
-### Simulation Images
 
 (Add your simulation screenshots here)
 
 ```markdown
 ![Simulation](images/simulation.png)
-```
 
----
+```
+### Correct Password
+![Correct](images/green.png)
 
 ## Prototype
 
