@@ -127,20 +127,4 @@ A hardware prototype was developed using Arduino Uno, push buttons, LEDs, a buzz
 * RFID authentication
 * Biometric security integration
 
----
 
-## Team Members
-
-* Abirami V
-* Atshaya K. N
-* Dhayas Sri R
-* Dibika A
-
-Department of Electrical and Electronics Engineering
-Easwari Engineering College
-
----
-
-## License
-
-This project is developed for academic and educational purposes.
