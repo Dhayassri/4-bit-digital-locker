@@ -48,6 +48,7 @@ This project aims to develop a secure digital locker that:
 * Push Buttons
 * LEDs (Green, Red, Yellow)
 * Piezo Buzzer
+* Servo Motor
 * Breadboard and Resistors
 
 
@@ -91,6 +92,10 @@ A hardware prototype was developed using Arduino Uno, push buttons, LEDs, a buzz
 
 ### Prototype Images
 ![prototype](images/hardware.jpg)
+
+### Hardware Demo
+
+![demo](images/video.mp4)
 
 ## Applications
 
